@@ -34,3 +34,4 @@ print("no of rows",len(df.axes[1]))
 ![](./output.jpg)
 
 ## RESULT:
+Thus the python program to read contents from a csv file is successfully executed.
